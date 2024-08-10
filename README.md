@@ -81,6 +81,7 @@ Ensure you have the following installed:
 │   └── index.html       # HTML template for the main page
 ├── uploads/             # Directory for uploaded images (created at runtime)
 ├── fine_tuned_models.pkl  # Serialized model file (not included in the repo)
+├── scansmart-ai.ipynb   #Model training and pickling
 ├── requirements.txt     # Python dependencies
 └── README.md            # This README file
 ```
