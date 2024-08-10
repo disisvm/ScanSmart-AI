@@ -49,7 +49,7 @@ Ensure you have the following installed:
 
 3. **Prepare the models**:
 
-   Ensure that the `fine_tuned_models.pkl` file is placed in the root directory of the project. This file contains the pre-trained models.
+   Firstly execute the `scansmart-ai.ipynb` file to generate the pickle file. Ensure that the `fine_tuned_models.pkl` file is placed in the root directory of the project. This file contains the pre-trained models.
 
 4. **Run the application**:
 
