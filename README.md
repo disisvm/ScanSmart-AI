@@ -10,7 +10,7 @@ This project is a web application built using Flask that allows users to upload 
 - **Ensemble Model Prediction**: The app uses an ensemble of deep learning models to predict the tumor type with increased accuracy.
 - **Confidence Threshold**: If the model is not confident in its prediction, it suggests consulting a doctor.
 - **Responsive UI**: A user-friendly and responsive interface with real-time image preview.
-- **Model Interpretability**: Integrates SHAP for model interpretability (optional, depending on the use case).
+- **Model Interpretability**: Integrates SHAP for model interpretability.
 
 ## Technologies Used
 
