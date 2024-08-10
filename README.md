@@ -97,7 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - The fine-tuned models used in this project are based on popular architectures available in Keras.
-- Special thanks to the [Kaggle dataset](https://www.kaggle.com/) used for training the models.
+- Special thanks to the [Kaggle dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) used for training the models.
 
 ---
 
