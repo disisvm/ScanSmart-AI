@@ -1,2 +1,10 @@
 ### Pickle files
 *.pkl
+
+### xml files
+*.xml
+
+### image files
+*.jpg
+
+*.iml
