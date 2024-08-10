@@ -86,9 +86,6 @@ Ensure you have the following installed:
 └── README.md            # This README file
 ```
 
-## Contributing
-
-If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 ## License
 
