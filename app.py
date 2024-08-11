@@ -60,9 +60,11 @@ def predict():
         confidence_threshold = 0.6
 
         if predicted_class_prob < confidence_threshold:
-            result = "Unfortunately, model cannot predict with confidence. Please consult your doctor for further analysis."
+            class_labels = ['Glioma', 'Meningioma', 'No Tumor', 'Pituitary']
+            predicted_class = class_labels[predicted_class_idx]
+            result = f"Model predicted {predicted_class} with low confidence. Please consult your doctor for further analysis."
         else:
-            class_labels = ['glioma', 'meningioma', 'notumor', 'pituitary']  # Update according to your class names
+            class_labels = ['Glioma', 'Meningioma', 'No Tumor', 'Pituitary']
             predicted_class = class_labels[predicted_class_idx]
             result = f"Predicted class: {predicted_class} with confidence {predicted_class_prob:.2f}"
 
