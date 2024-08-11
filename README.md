@@ -95,8 +95,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - The fine-tuned models used in this project are based on popular architectures available in Keras.
 - Special thanks to the [Kaggle dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) used for training the models.
-
----
-
-This `README.md` provides a comprehensive overview of the project, including setup instructions, usage, and a project structure breakdown. You can customize it further based on your specific requirements.# ScanSmart AI
- 
