@@ -1,4 +1,4 @@
-# Brain Tumor Classification Flask Application
+# Brain Tumor Classification Flask Application.
 
 ## Overview
 
